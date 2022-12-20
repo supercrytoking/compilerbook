@@ -1,0 +1,26 @@
+https://www3.nd.edu/~dthain/compilerbook
+https://web.mit.edu/
+https://e-maxx.ru/bookz/files/
+
+---MIT book LISP 1.5 Programmer's Manual
+
+https://books.google.de/books?
+id=68j6lEJjMQwC&pg=PR1&redir_esc=y#v=onepage&q&f=false
+
+
+https://apps.dtic.mil/sti/pdfs/ADA010218.pdf
+
+https://freecomputerbooks.com/Introduction-to-Compilers-and-Language-Design.html
+
+
+https://freecomputerbooks.com/compscCompilerBooks.html
+
+--Basics of Compiler Design (Torben Mogensen)
+--Compiler Design: Theory, Tools, and Examples (Seth Bergmann)
+--Introduction to Compilers and Language Design (Douglas Thain)
+--Compiler Construction (William M. Waite, et al)
+--Implementing Programming Languages: Compilers and Interpreters
+--Compiler Design in C (Allen I. Holub)
+--Let's Build a Compiler (Jack w. Crenshaw)
+--Parsing Techniques - A Practical Guide (Dick Grune, et al)
+--Compiling Techniques (F. R. A. Hopgood)
