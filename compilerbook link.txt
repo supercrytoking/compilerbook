@@ -1,8 +1,12 @@
 https://www3.nd.edu/~dthain/compilerbook
 https://web.mit.edu/
 https://e-maxx.ru/bookz/files/
+https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811
 
 ---MIT book LISP 1.5 Programmer's Manual
+https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811
+
+https://jobsfair.dese.gov.au/QVl0REc4NjducWxsMEgxZ2F5_lecture-notes-on-intermediate-code-generation_TEgyUT09.pdf
 
 https://books.google.de/books?
 id=68j6lEJjMQwC&pg=PR1&redir_esc=y#v=onepage&q&f=false
